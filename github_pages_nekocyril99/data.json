@@ -1,0 +1,34 @@
+[
+  { 
+    "id": 1,
+    "type": "billboard",
+    "location": "Depan Ada Meng",
+    "slots": [
+      { "tenant": "ozhy", "rentalStartDate": "2025-11-17", "rentalDuration": 60 }
+    ]
+  },
+  { 
+    "id": 2,
+    "type": "billboard",
+    "location": "Depan Warnet",
+    "slots": [
+      null
+    ]
+  },
+  { 
+    "id": 3,
+    "type": "billboard",
+    "location": "Atas Becak",
+    "slots": [
+      null
+    ]
+  },
+  { 
+    "id": 4,
+    "type": "billboard",
+    "location": "Atas Mobil Pickup",
+    "slots": [
+      null
+    ]
+  }
+]
