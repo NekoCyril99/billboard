@@ -2,15 +2,15 @@
   { 
     "id": 1,
     "type": "billboard",
-    "location": "Depan Ada Meng",
+    "location": "Samping Restoran",
     "slots": [
-      { "tenant": "ozhy", "rentalStartDate": "2025-11-17", "rentalDuration": 60 }
+      { "tenant": "ozhy", "rentalStartDate": "2025-11-17", "rentalDuration": 120 }
     ]
   },
   { 
     "id": 2,
     "type": "billboard",
-    "location": "Depan Warnet",
+    "location": "Samping Restoran",
     "slots": [
       null
     ]
@@ -18,7 +18,7 @@
   { 
     "id": 3,
     "type": "billboard",
-    "location": "Atas Becak",
+    "location": "Parkiran",
     "slots": [
       null
     ]
@@ -26,7 +26,7 @@
   { 
     "id": 4,
     "type": "billboard",
-    "location": "Atas Mobil Pickup",
+    "location": "Parkiran",
     "slots": [
       null
     ]
