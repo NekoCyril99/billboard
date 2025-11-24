@@ -33,7 +33,7 @@
   }
   { 
     "id": 5,
-    "type": "Poster",
+    "type": "billboard",
     "location": "Trotoar Restoran 1",
     "slots": [
       null
@@ -41,7 +41,7 @@
   }
   { 
     "id": 6,
-    "type": "Poster",
+    "type": "billboard",
     "location": "Trotoar Restoran 2",
     "slots": [
       null
@@ -49,7 +49,7 @@
   }
   { 
     "id": 7,
-    "type": "Poster",
+    "type": "billboard",
     "location": "Trotoar Kiri 1",
     "slots": [
       null
@@ -57,7 +57,7 @@
   }
   { 
     "id": 8,
-    "type": "Poster",
+    "type": "billboard",
     "location": "Trotoar Kiri 2",
     "slots": [
       null
