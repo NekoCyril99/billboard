@@ -36,7 +36,7 @@
     "type": "billboard",
     "location": "Trotoar Restoran 1",
     "slots": [
-      { "tenant": "NekoTest", "rentalStartDate": "2025-11-24", "rentalDuration": 30 }
+      null
     ]
   },
   { 
