@@ -31,4 +31,36 @@
       null
     ]
   }
+  { 
+    "id": 5,
+    "type": "billboard",
+    "location": "Parkiran",
+    "slots": [
+      null
+    ]
+  }
+  { 
+    "id": 6,
+    "type": "billboard",
+    "location": "Parkiran",
+    "slots": [
+      null
+    ]
+  }
+  { 
+    "id": 7,
+    "type": "billboard",
+    "location": "Parkiran",
+    "slots": [
+      null
+    ]
+  }
+  { 
+    "id": 8,
+    "type": "billboard",
+    "location": "Parkiran",
+    "slots": [
+      null
+    ]
+  }
 ]
