@@ -33,32 +33,32 @@
   }
   { 
     "id": 5,
-    "type": "billboard",
-    "location": "Parkiran",
+    "type": "Poster",
+    "location": "Trotoar Restoran 1",
     "slots": [
       null
     ]
   }
   { 
     "id": 6,
-    "type": "billboard",
-    "location": "Parkiran",
+    "type": "Poster",
+    "location": "Trotoar Restoran 2",
     "slots": [
       null
     ]
   }
   { 
     "id": 7,
-    "type": "billboard",
-    "location": "Parkiran",
+    "type": "Poster",
+    "location": "Trotoar Kiri 1",
     "slots": [
       null
     ]
   }
   { 
     "id": 8,
-    "type": "billboard",
-    "location": "Parkiran",
+    "type": "Poster",
+    "location": "Trotoar Kiri 2",
     "slots": [
       null
     ]
