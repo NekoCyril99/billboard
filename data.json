@@ -12,7 +12,7 @@
     "type": "billboard",
     "location": "Samping Restoran",
     "slots": [
-      null
+      { "tenant": "VRChatEvent2026", "rentalStartDate": "2025-12-02", "rentalDuration": 30 }
     ]
   },
   { 
@@ -36,7 +36,7 @@
     "type": "billboard",
     "location": "Trotoar Restoran 1",
     "slots": [
-      null
+      { "tenant": "VRChatEvent2026", "rentalStartDate": "2025-12-02", "rentalDuration": 30 }
     ]
   },
   { 
@@ -44,7 +44,7 @@
     "type": "billboard",
     "location": "Trotoar Restoran 2",
     "slots": [
-      null
+      { "tenant": "VRChatEvent2026", "rentalStartDate": "2025-12-02", "rentalDuration": 30 }
     ]
   },
   { 
@@ -52,7 +52,7 @@
     "type": "billboard",
     "location": "Trotoar Kiri 1",
     "slots": [
-      null
+      { "tenant": "VRChatEvent2026", "rentalStartDate": "2025-12-02", "rentalDuration": 30 }
     ]
   },
   { 
@@ -60,7 +60,7 @@
     "type": "billboard",
     "location": "Trotoar Kiri 2",
     "slots": [
-      null
+      { "tenant": "VRChatEvent2026", "rentalStartDate": "2025-12-02", "rentalDuration": 30 }
     ]
   }
 ]
