@@ -36,7 +36,7 @@
     "type": "billboard",
     "location": "Trotoar Restoran 1",
     "slots": [
-      { "tenant": "VRChatEvent2026", "rentalStartDate": "2025-12-02", "rentalDuration": 30 }
+      null
     ]
   },
   { 
@@ -44,7 +44,7 @@
     "type": "billboard",
     "location": "Trotoar Restoran 2",
     "slots": [
-      { "tenant": "VRChatEvent2026", "rentalStartDate": "2025-12-02", "rentalDuration": 30 }
+      null
     ]
   },
   { 
@@ -52,7 +52,7 @@
     "type": "billboard",
     "location": "Trotoar Kiri 1",
     "slots": [
-      { "tenant": "VRChatEvent2026", "rentalStartDate": "2025-12-02", "rentalDuration": 30 }
+      { "tenant": "Ler_na", "rentalStartDate": "2026-01-03", "rentalDuration": 30 }
     ]
   },
   { 
@@ -60,7 +60,7 @@
     "type": "billboard",
     "location": "Trotoar Kiri 2",
     "slots": [
-      { "tenant": "VRChatEvent2026", "rentalStartDate": "2025-12-02", "rentalDuration": 30 }
+      null
     ]
   }
 ]
