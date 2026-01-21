@@ -20,7 +20,7 @@
     "type": "billboard",
     "location": "Parkiran",
     "slots": [
-      { "tenant": "PotatoRecipes", "rentalStartDate": "2025-11-20", "rentalDuration": 60 }
+      null
     ]
   },
   { 
