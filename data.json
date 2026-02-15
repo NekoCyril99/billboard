@@ -44,7 +44,7 @@
     "type": "billboard",
     "location": "Trotoar Restoran 2",
     "slots": [
-      { "tenant": "Kazami Yori", "rentalStartDate": "2026-01-05", "rentalDuration": 30 }
+      null
     ]
   },
   { 
@@ -52,7 +52,7 @@
     "type": "billboard",
     "location": "Trotoar Kiri 1",
     "slots": [
-      { "tenant": "Ler_na", "rentalStartDate": "2026-01-03", "rentalDuration": 30 }
+      null
     ]
   },
   { 
