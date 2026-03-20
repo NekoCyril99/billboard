@@ -4,7 +4,7 @@
     "type": "billboard",
     "location": "Samping Restoran",
     "slots": [
-      { "tenant": "ozhy", "rentalStartDate": "2025-11-17", "rentalDuration": 120 }
+      null
     ]
   },
   { 
